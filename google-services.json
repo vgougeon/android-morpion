@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "715408812542",
+    "firebase_url": "https://tp10-39e4e.firebaseio.com",
+    "project_id": "tp10-39e4e",
+    "storage_bucket": "tp10-39e4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715408812542:android:77bc27ce8a98f0096478af",
+        "android_client_info": {
+          "package_name": "com.vincent.tp10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715408812542-00eipndkfm9egorjssd8c48j55v2blcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArettDbs-UABng4SSgnYD47npuT5CqzSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715408812542-00eipndkfm9egorjssd8c48j55v2blcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
